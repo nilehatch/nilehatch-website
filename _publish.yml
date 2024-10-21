@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 00176bf8-46d8-4049-a774-3ca2feac95ce
+      url: 'https://kaleidoscopic-kangaroo-fd60e7.netlify.app'

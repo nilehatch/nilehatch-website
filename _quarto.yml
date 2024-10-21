@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "nilehatch"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: Books
+        menu:
+        - href: https://ba.nilehatch.com
+          text: "Business Analytics"
+        - href: https://ei.nilehatch.com
+          text: "Expeditionary Innovation"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: source
+
